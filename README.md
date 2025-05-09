@@ -1,3 +1,4 @@
+
 # 🎧 Spotify Data Analysis
 
 ## 📌 Introduction
@@ -91,4 +92,5 @@ After preprocessing, these models were trained to predict the **popularity of so
 * Genre classification using KMeans added an extra dimension to understanding music trends.
 * Future improvements could involve boosting recall for popular songs and enhancing minority class detection.
 
-Link to the Blog : https://medium.com/@muleilucyY
+Link to the Blog : https://medium.com/@muleilucy
+
